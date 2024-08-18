@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.9.19-bullseye
 pull python:3.9.19
+pull python:3.9-bullseye
